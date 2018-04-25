@@ -122,7 +122,6 @@ def adding_to_dennis
         }
      }
 
-	programmer_hash[:grace_hopper][:known_for]
-	programmer_hash[:grace_hopper][:languages]
+	programmer_hash[:grace_hopper]
 
 end
